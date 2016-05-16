@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
  <widget xmlns = "http://www.w3.org/ns/widgets"
      xmlns:gap = "http://phonegap.com/ns/1.0"
-	 id        = "com.phonegap.example8"
+	 id        = "com.phonegap.example24"
 	 versionCode= "10"
 	 version   = "1.0.0">
 	 
 	 <!-- versionCode is optional and Android only -->
 	 
-	 <name>App8 Droop con la pantalla</name>
+	 <name>App Union de App's</name>
 	 
 	 <description>
-	  Aplicacion que arrastra la pantalla hacia la derecha e izquierda
+	  Aplicacion que une la aplicacion 4, 6 y 8
 	  </description>
 	  
 	  
